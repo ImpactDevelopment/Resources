@@ -1,1 +1,5 @@
-
+{
+  "premium": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/users/Premium.txt",
+  "developer": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/users/Developer.txt",
+  "pepsi": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/users/Pepsi.txt"
+}
