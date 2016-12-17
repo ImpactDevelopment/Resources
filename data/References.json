@@ -3,5 +3,6 @@
   "developer": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/Developer.txt",
   "pepsi": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/Pepsi.txt",
   "version": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/Versions.json",
-  "motd": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/motd.txt"
+  "motd": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/motd.txt",
+  "donate": "https://www.paypal.me/impactdevelopment"
 }
