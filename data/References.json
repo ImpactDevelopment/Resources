@@ -1,7 +1,7 @@
 {
-  "premium": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/Premium.txt",
-  "developer": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/Developer.txt",
-  "pepsi": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/Pepsi.txt",
+  "premium": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/premium.txt",
+  "developer": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/developer.txt",
+  "pepsi": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/pepsi.txt",
   "version": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/Versions.json",
   "motd": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/motd.txt",
   "donate": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/donate.txt"
