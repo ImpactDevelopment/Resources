@@ -2,7 +2,7 @@
   "premium": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/premium.txt",
   "developer": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/developer.txt",
   "pepsi": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/pepsi.txt",
-  "version": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/Versions.json",
+  "version": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/versions.json",
   "motd": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/motd.txt",
   "donate": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/donate.txt"
 }
