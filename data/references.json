@@ -4,5 +4,6 @@
   "pepsi": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/pepsi.txt",
   "version": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/versions.json",
   "motd": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/motd.txt",
-  "donate": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/donate.txt"
+  "donate": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/donate.txt",
+  "credits": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/credits.json"
 }
