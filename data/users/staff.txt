@@ -5,3 +5,5 @@
 5e7fd44d-e39f-49a7-816a-390515ee1075 // 0x22
 a4f77739-d15e-4dc2-b957-219a2f6f9244 // leafhacker 
 93048fb2-d9fe-413b-9889-6dfaf04d13a5 // olibols
+7965d541-c427-4dd8-9607-e7ed5dd84b61 // pixel
+cb25290a-c504-4758-8223-27c6f9fa8c7a // slayerfox
