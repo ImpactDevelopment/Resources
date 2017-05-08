@@ -7,3 +7,4 @@ a4f77739-d15e-4dc2-b957-219a2f6f9244 // LeafHacker
 93048fb2-d9fe-413b-9889-6dfaf04d13a5 // Olibols
 7965d541-c427-4dd8-9607-e7ed5dd84b61 // Pixel
 cb25290a-c504-4758-8223-27c6f9fa8c7a // Slayerfox
+41e0207f-f683-4abd-b4a9-3e5abd660b93 // mun/get_fuckied
