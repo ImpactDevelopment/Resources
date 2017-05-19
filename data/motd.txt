@@ -1,1 +1,1 @@
-Small news: 3.1 is now named 4.0. Will be released for MC 1.12
+False Alarm, Mistakes were made. Impact 4.0 will be 1.11.2.
