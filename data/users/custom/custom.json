@@ -9,4 +9,15 @@
       "color": "LIGHT_PURPLE"
     }
   }
+  
+  "9d913c0a-3d57-4ce9-8b7d-689973312856": {
+  "nametags": {
+    "name": "NUT",
+    "text": "LIGHT_BLUE",
+    "border": "LIGHT_BLUE",
+},
+"esp": {
+  "color": "LIGHT_BLUE"
+}
+}
 }
