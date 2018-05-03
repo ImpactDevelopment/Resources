@@ -7,6 +7,7 @@
 - Colored sign text exploit
 - Option to save logout positions in Log Position
 - Movement speed widget in the HUD
+- Opacity option for Click GUI
 
 ### Changed
 - Automatically focus the username field in the alt creation screen
