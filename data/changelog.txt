@@ -8,6 +8,7 @@
 - Option to save logout positions in Log Position
 - Movement speed widget in the HUD
 - Opacity option for Click GUI
+- Jump option for the strafe speed mode
 
 ### Changed
 - Automatically focus the username field in the alt creation screen
