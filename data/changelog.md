@@ -12,12 +12,18 @@
 - Skylight option for light module to prevent skylight lag machines from working
 - Totem counter option to Auto Totem
 - Customization for suffixes in module list
+- Auto Break option for nuker
+- Origin option for nuker to choose the break origin
+- Target option for nuker to choose the blocks targetted
+- Filter option for nuker to use the nuker ID list
 
 ### Changed
 - Automatically focus the username field in the alt creation screen
 - Alts are now stored in a json format
 - Significantly improve scaffold in all movement directions
-- Separate option for block id target nuker
+
+### Removed
+- Mode option for nuker
 
 ### Fixed
 - Fixed incorrect angle calculations in combat modules
