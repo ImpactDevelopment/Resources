@@ -11,6 +11,7 @@
 - Jump option for the strafe speed mode
 - Skylight option for light module to prevent skylight lag machines from working
 - Totem counter option to Auto Totem
+- Customization for suffixes in module list
 
 ### Changed
 - Automatically focus the username field in the alt creation screen
