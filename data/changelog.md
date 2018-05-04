@@ -16,6 +16,7 @@
 ### Changed
 - Automatically focus the username field in the alt creation screen
 - Alts are now stored in a json format
+- Significantly improve scaffold in all movement directions
 
 ### Fixed
 - Fixed incorrect angle calculations in combat modules
