@@ -17,11 +17,13 @@
 - Target option for nuker to choose the blocks targetted
 - Filter option for nuker to use the nuker ID list
 - Crosshair prioritization mode for Kill Aura
+- Swing option for Scaffold
 
 ### Changed
 - Automatically focus the username field in the alt creation screen
 - Alts are now stored in a json format
 - Significantly improve scaffold in all movement directions
+- Improve jitter on Auto Clicker
 
 ### Removed
 - Mode option for nuker
