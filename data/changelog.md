@@ -24,6 +24,7 @@
 - Alts are now stored in a json format
 - Significantly improve scaffold in all movement directions
 - Improve jitter on Auto Clicker
+- Added mineplex support for team check
 
 ### Removed
 - Mode option for nuker
