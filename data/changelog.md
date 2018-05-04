@@ -17,6 +17,7 @@
 - Automatically focus the username field in the alt creation screen
 - Alts are now stored in a json format
 - Significantly improve scaffold in all movement directions
+- Separate option for block id target nuker
 
 ### Fixed
 - Fixed incorrect angle calculations in combat modules
