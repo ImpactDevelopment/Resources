@@ -25,3 +25,4 @@
 - Smooth aim targetting incorrect positions
 - Friends GUI causing a crash
 - Alt GUI having transparent background when in-game
+- Some vertical spacing problems with the HUD
