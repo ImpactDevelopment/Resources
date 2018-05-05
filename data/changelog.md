@@ -25,6 +25,7 @@
 - Significantly improve scaffold in all movement directions
 - Improve jitter on Auto Clicker
 - Added mineplex support for team check
+- Freecam is now always in first person view
 
 ### Removed
 - Mode option for nuker
