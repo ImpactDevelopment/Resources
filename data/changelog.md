@@ -41,3 +41,4 @@
 - Alt GUI having transparent background when in-game
 - Some vertical spacing problems with the HUD
 - Cycler boxes in Click GUI not properly encasing children
+- Freecam causing weird behavior while riding entities
