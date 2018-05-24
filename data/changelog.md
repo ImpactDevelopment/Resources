@@ -24,6 +24,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Filter option for nuker to use the nuker ID list
 - Crosshair prioritization mode for Kill Aura
 - Swing option for Scaffold
+- Shulker Tooltip option for Inventory to uncap tooltip length
+- Shulker Coallate option for Inventory to collate the stack list
 
 ### Changed
 - Automatically focus the username field in the alt creation screen
@@ -32,6 +34,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Improve jitter on Auto Clicker
 - Added mineplex support for team check
 - Freecam is now always in first person view
+- Moved Inventory to the Misc category
+- Changed Inventory description to fit new functionality
 
 ### Removed
 - Mode option for nuker
