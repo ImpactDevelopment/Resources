@@ -24,8 +24,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Filter option for nuker to use the nuker ID list
 - Crosshair prioritization mode for Kill Aura
 - Swing option for Scaffold
-- Shulker Tooltip option for Inventory to uncap tooltip length
-- Shulker Coallate option for Inventory to collate the stack list
+- Shulker Tooltip option for Inventory to change the tooltip length
+- Shulker Coallate option for Inventory to group item stacks together in the tooltip
 
 ### Changed
 - Automatically focus the username field in the alt creation screen
@@ -34,8 +34,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Improve jitter on Auto Clicker
 - Added mineplex support for team check
 - Freecam is now always in first person view
-- Moved Inventory to the Misc category
-- Changed Inventory description to fit new functionality
+- Moved Inventory to the Misc category and changed its description to fit new functionality
+- ClickGUI menus now stay on the screen at all times
 
 ### Removed
 - Mode option for nuker
@@ -45,12 +45,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - No Fall Bucket mode getting stuck on the collection stage
 - Xray GUI arrows not displaying with a transparent background
 - Issues caused when disabling the Click GUI
+- ClickGUI not rendering closed menus correctly until they are re-closed
 - drop command not targetting correct slots
 - Chams affecting models in the alt manager
 - Smooth aim targetting incorrect positions
 - Friends GUI causing a crash
-- Alt GUI having transparent background when in-game
+- Alt GUI having transparent background while in-game
 - Some vertical spacing problems with the HUD
 - Cycler boxes in Click GUI not properly encasing children
 - Freecam causing weird behavior while riding entities
 - ChestStealer not functioning as expected
+- Forge and Optifine support (probably)
