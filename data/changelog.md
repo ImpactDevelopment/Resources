@@ -43,6 +43,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 ### Fixed
 - Fixed incorrect angle calculations in combat modules
 - No Fall Bucket mode getting stuck on the collection stage
+- Dolphin Jesus jumping while in GUIs, even when out of water
 - Xray GUI arrows not displaying with a transparent background
 - Issues caused when disabling the Click GUI
 - ClickGUI not rendering closed menus correctly until they are re-closed
