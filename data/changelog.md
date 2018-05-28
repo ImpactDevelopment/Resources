@@ -8,12 +8,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 ### Added
 - Clickable links in the MOTD
 - Line-wrapping in the MOTD
+- Pause option for Click GUI
+- Opacity option for Click GUI
 - Option to blur background of Click GUI frames
-- Button to open Click GUI from the Impact gui menu
+- Button to open Click GUI from the Impact menu
 - Colored sign text exploit
 - Option to save logout positions in Log Position
 - Movement speed widget in the HUD
-- Opacity option for Click GUI
 - Jump option for the strafe speed mode
 - Skylight option for light module to prevent skylight lag machines from working
 - Totem counter option to Auto Totem
