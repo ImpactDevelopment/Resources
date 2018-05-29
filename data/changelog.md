@@ -47,8 +47,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - No Fall Bucket mode getting stuck on the collection stage
 - Dolphin Jesus jumping while in GUIs, even when out of water
 - Xray GUI arrows not displaying with a transparent background
+- Click GUI not always being saved on shutdown
 - Issues caused when disabling the Click GUI
-- ClickGUI not rendering closed menus correctly until they are re-closed
+- Click GUI not rendering closed menus correctly until they are re-closed
 - drop command not targetting correct slots
 - Chams affecting models in the alt manager
 - Smooth aim targetting incorrect positions
