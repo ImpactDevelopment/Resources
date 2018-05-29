@@ -36,7 +36,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added mineplex support for team check
 - Freecam is now always in first person view
 - Moved Inventory to the Misc category and changed its description to fit new functionality
-- ClickGUI menus now stay on the screen at all times
+- Click GUI menus now stay on the screen at all times
+- Click GUI's keybind widget now has a tooltip and should be easier to use
 
 ### Removed
 - Mode option for nuker
