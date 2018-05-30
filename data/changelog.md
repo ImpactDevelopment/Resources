@@ -6,19 +6,19 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 ## [Unreleased]
 
 ### Added
-- Clickable links in the MOTD
-- Line-wrapping in the MOTD
+- Button to open Click GUI from the Impact menu
+- Clickable links and line-wrapping in the MOTD header
+- Colored sign text exploit
+- Movement speed widget in the HUD
+- Customization for suffixes in module list
 - Pause option for Click GUI
 - Opacity option for Click GUI
 - Option to blur background of Click GUI frames
-- Button to open Click GUI from the Impact menu
-- Colored sign text exploit
 - Option to save logout positions in Log Position
-- Movement speed widget in the HUD
+- Catch Delay option for AutoFish (might help with fussy servers)
 - Jump option for the strafe speed mode
 - Skylight option for light module to prevent skylight lag machines from working
 - Totem counter option to Auto Totem
-- Customization for suffixes in module list
 - Auto Break option for nuker
 - Origin option for nuker to choose the break origin
 - Target option for nuker to choose the blocks targetted
@@ -29,8 +29,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Shulker Coallate option for Inventory to group item stacks together in the tooltip
 
 ### Changed
-- Automatically focus the username field in the alt creation screen
-- Alts are now stored in a json format
+- AutoFish options should be clearer now
+- AutoFish AutoCast is now off by default
+- Automatically focus the username field when creating an Alt
+- Alts are now stored in a json format to enable future fanciness
 - Significantly improve scaffold in all movement directions
 - Improve jitter on Auto Clicker
 - Added mineplex support for team check
