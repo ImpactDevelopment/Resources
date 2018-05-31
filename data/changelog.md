@@ -7,6 +7,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 
 ### Added
 - Button to open Click GUI from the Impact menu
+- "Main Menu" entry in Click GUI's Render section
+  - Toggle using Impact's custom main menu
+  - Toggle using Impact's replacement menu wallpaper
 - Clickable links and line-wrapping in the MOTD header
 - Colored sign text exploit
 - Movement speed widget in the HUD
