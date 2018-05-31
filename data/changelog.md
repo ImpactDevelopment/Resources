@@ -73,4 +73,4 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Cycler boxes in Click GUI not properly encasing children
 - Freecam causing weird behavior while riding entities
 - ChestStealer not functioning as expected
-- Forge and Optifine support (probably)
+- Forge and Optifine support ~~(probably)~~
