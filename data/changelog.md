@@ -47,11 +47,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
   - Left click to modify the bind
   - Clicking again (or pressying `Esc` will cancel)
   - Right click to delete/reset the bind
+- `.set` command can now use option id as an alternative to name
 
 ### Removed
 - Mode option for nuker
 
 ### Fixed
+- `.set` command not finding nested options
 - Fixed incorrect angle calculations in combat modules
 - No Fall Bucket mode getting stuck on the collection stage
 - Dolphin Jesus jumping while in GUIs, even when out of water
