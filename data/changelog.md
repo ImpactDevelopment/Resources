@@ -61,6 +61,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - No Fall Bucket mode getting stuck on the collection stage
 - Dolphin Jesus jumping while in GUIs, even when out of water
 - Xray GUI arrows not displaying with a transparent background
+- Not being able to toggle mods or open Click GUI after toggling fullscreen mode
 - Click GUI not always being saved on shutdown
 - Issues caused when disabling the Click GUI
 - Click GUI not rendering closed menus correctly until they are re-closed
