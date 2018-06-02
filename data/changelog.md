@@ -18,6 +18,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Opacity option for Click GUI
 - Option to blur background of Click GUI frames
 - Option to save logout positions in Log Position
+- Rank option for Nametags to show team prefix and suffix
 - Catch Delay option for AutoFish (might help with fussy servers)
 - Jump option for the strafe speed mode
 - Skylight option for light module to prevent skylight lag machines from working
@@ -32,6 +33,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Shulker Coallate option for Inventory to group item stacks together in the tooltip
 
 ### Changed
+- Use player's team color in Nametags
 - AutoFish options should be clearer now
 - AutoFish AutoCast is now off by default
 - Automatically focus the username field when creating an Alt
@@ -40,7 +42,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Improve jitter on Auto Clicker
 - Added mineplex support for team check
 - Freecam is now always in first person view
-- Moved Inventory to the Misc category and changed its description to fit new functionality
+- Moved Inventory to the Misc category, updated its description and made move an option
 - Click GUI menus now stay on the screen at all times
 - Click GUI menus are now easier to navigate
   - Clicking the arrows next to modules will open the submen
@@ -56,6 +58,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Mode option for nuker
 
 ### Fixed
+- Absorption not being shown by Nametags
 - `.set` command not finding nested options
 - Fixed incorrect angle calculations in combat modules
 - No Fall Bucket mode getting stuck on the collection stage
