@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 
 ### Added
 - Button to open Click GUI from the Impact menu
+- Ability to open chat while Click GUI is open
 - "Main Menu" entry in Click GUI's Render section
   - Toggle using Impact's custom main menu
   - Toggle using Impact's replacement menu wallpaper
@@ -53,6 +54,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
   - Clicking again (or pressying `Esc` will cancel)
   - Right click to delete/reset the bind
 - `.set` command can now use option id as an alternative to name
+- Removed all server-side changes (should make singleplayer more stable)
 
 ### Removed
 - Mode option for nuker
