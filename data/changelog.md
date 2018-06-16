@@ -65,6 +65,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Absorption not being shown by Nametags
 - `.set` command not finding nested options
 - Fixed incorrect angle calculations in combat modules
+- Incorrect murderer detection on Hypixel's Murder Mystery
 - No Fall Bucket mode getting stuck on the collection stage
 - Dolphin Jesus jumping while in GUIs, even when out of water
 - Xray GUI arrows not displaying with a transparent background
