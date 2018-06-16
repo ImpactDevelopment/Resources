@@ -53,7 +53,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
   - Move menus around by dragging anywhere within them (hold `Ctrl` or use middle mouse)
 - Click GUI's keybind widget now has a tooltip and is easier to use
   - Left click to modify the bind
-  - Clicking again (or pressying `Esc` will cancel)
+  - Clicking again (or pressing `Esc` will cancel)
   - Right click to delete/reset the bind
 - `.set` command can now use option id as an alternative to name
 - Removed all server-side changes (should make singleplayer more stable)
