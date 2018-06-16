@@ -32,6 +32,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Swing option for Scaffold
 - Shulker Tooltip option for Inventory to change the tooltip length
 - Shulker Coallate option for Inventory to group item stacks together in the tooltip
+- Option to only shoot when scoped for Minestrike module
+- Option to ignore attacking friends for Minestrike module
 
 ### Changed
 - Use player's team color in Nametags
@@ -80,3 +82,4 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Freecam causing weird behavior while riding entities
 - ChestStealer not functioning as expected
 - Forge and Optifine support ~~(probably)~~
+- AntiAFK "jump" option not working when a GUI is open
