@@ -34,6 +34,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Shulker Coallate option for Inventory to group item stacks together in the tooltip
 - Option to only shoot when scoped for Minestrike module
 - Option to ignore attacking friends for Minestrike module
+- Support for offhand in Scaffold
+  - Added option to prioritize offhand which is on by default
 
 ### Changed
 - Use player's team color in Nametags
@@ -66,6 +68,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - `.set` command not finding nested options
 - Fixed incorrect angle calculations in combat modules
 - Incorrect murderer detection on Hypixel's Murder Mystery
+- Incorrect murderer detection on PlayMCM
 - No Fall Bucket mode getting stuck on the collection stage
 - Dolphin Jesus jumping while in GUIs, even when out of water
 - Xray GUI arrows not displaying with a transparent background
