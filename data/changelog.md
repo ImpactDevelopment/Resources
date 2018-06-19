@@ -88,3 +88,4 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Forge and Optifine support ~~(probably)~~
 - AntiAFK "jump" option not working when a GUI is open
 - AutoTool not applying to Nuker
+- Fixed Riding "Entity Speed" not applying to boats
