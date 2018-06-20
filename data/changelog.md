@@ -36,6 +36,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Option to ignore attacking friends for Minestrike module
 - Support for offhand in Scaffold
   - Added option to prioritize offhand which is on by default
+- Swing option for breaker to show breaking on the client side
 
 ### Changed
 - Use player's team color in Nametags
