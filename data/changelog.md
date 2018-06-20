@@ -37,6 +37,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Support for offhand in Scaffold
   - Added option to prioritize offhand which is on by default
 - Swing option for breaker to show breaking on the client side
+- "Reconnect" command that quickly disconnects and reconnects the user from their current server
 
 ### Changed
 - Use player's team color in Nametags
