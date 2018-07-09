@@ -91,3 +91,4 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - AntiAFK "jump" option not working when a GUI is open
 - AutoTool not applying to Nuker
 - Fixed Riding "Entity Speed" not applying to boats
+- Fixed Scaffold not properly placing glass blocks
