@@ -3,9 +3,20 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~~and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).~~
 
-## 4.4
+## Unreleased
+
+### Added
+- Tower option for Scaffold
+- Lethal option for No Fall Bucket mode to only place water when the fall is lethal
+
 ### Fixed
 - Fixed uncommon crash caused by GuiTextContainingLinks
+- Fixed Scaffold not working on NCP due to bad angles
+- Fixed Scaffold providing server with suspicious looking packets
+- Fixed Riding causing boats to bob if the swim option is checked
+- Step working when in water or lava
+- Fixed enum type values not saving/loading properly
+  - Only affected options for HUD module
 
 ## 4.3
 
