@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 ### Added
 - Tower option for Scaffold
 - Lethal option for No Fall Bucket mode to only place water when the fall is lethal
+- Debug option for Scaffold to allow for better visualization of block placement
 
 ### Fixed
 - Fixed uncommon crash caused by GuiTextContainingLinks
