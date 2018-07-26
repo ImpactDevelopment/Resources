@@ -9,6 +9,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Tower option for Scaffold
 - Lethal option for No Fall Bucket mode to only place water when the fall is lethal
 - Debug option for Scaffold to allow for better visualization of block placement
+- Delay option for Auto Clicker to use 1.9 attack cooldown
+  - Also added TPS Sync sub-option to sync swing delay with TPS
+  
+## Changed
+- Separated horizontal and vertical speed in Freecam
 
 ### Fixed
 - Fixed uncommon crash caused by GuiTextContainingLinks
@@ -20,6 +25,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
   - Only affected options for HUD module
 - Fixed bug with Auto Tool that caused game to crash under specific circumstances
   - Crashed when there was not a valid tool on the hotbar and it has not previously succeeded
+- Fixed boat rotation in the Riding module
+  - Boats now rotate to the direction that you're looking
+  - Fixed "strafing" while in boats
 
 ## 4.3
 
