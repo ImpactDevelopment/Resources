@@ -18,6 +18,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Step working when in water or lava
 - Fixed enum type values not saving/loading properly
   - Only affected options for HUD module
+- Fixed bug with Auto Tool that caused game to crash under specific circumstances
+  - Crashed when there was not a valid tool on the hotbar and it has not previously succeeded
 
 ## 4.3
 
