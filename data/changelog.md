@@ -15,11 +15,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - No SRP module, prevents servers from forcing resource packs
 - Added name case change exploit as a command (.rename)
 - Added ESP color types (Custom, Team, Health)
-  
-### Changed
-- Separated horizontal and vertical speed in Freecam
 - Allow Auto Totem to access crafting slots to retrieve Totems
   - Should be combined with Inventory's "Extra Slots" feature
+
+### Changed
+- Separated horizontal and vertical speed in Freecam
+- Changed Fast Interact's Fast Break option from breaking blocks faster to lowering block break delay
 
 ### Fixed
 - Fixed uncommon crash caused by GuiTextContainingLinks
