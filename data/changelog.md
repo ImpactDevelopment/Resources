@@ -29,6 +29,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed boat rotation in the Riding module
   - Boats now rotate to the direction that you're looking
   - Fixed "strafing" while in boats
+- Fixed Anti Vanish causing the game to crash
 
 ## 4.3
 
