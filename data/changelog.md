@@ -30,6 +30,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
   - Boats now rotate to the direction that you're looking
   - Fixed "strafing" while in boats
 - Fixed Anti Vanish causing the game to crash
+- Fixed Flowing option for Jesus Solid mode
 
 ## 4.3
 
