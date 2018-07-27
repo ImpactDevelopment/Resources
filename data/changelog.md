@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Debug option for Scaffold to allow for better visualization of block placement
 - Delay option for Auto Clicker to use 1.9 attack cooldown
   - Also added TPS Sync sub-option to sync swing delay with TPS
+- Discord RPC support
   
 ### Changed
 - Separated horizontal and vertical speed in Freecam
