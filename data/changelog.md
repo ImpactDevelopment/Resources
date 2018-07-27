@@ -12,6 +12,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Delay option for Auto Clicker to use 1.9 attack cooldown
   - Also added TPS Sync sub-option to sync swing delay with TPS
 - Discord RPC support
+- No SRP module, prevents servers from forcing resource packs
+- Added name case change exploit as a command (.rename)
   
 ### Changed
 - Separated horizontal and vertical speed in Freecam
