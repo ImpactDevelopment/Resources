@@ -17,6 +17,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added ESP color types (Custom, Team, Health)
 - Allow Auto Totem to access crafting slots to retrieve Totems
   - Should be combined with Inventory's "Extra Slots" feature
+- Added Fancy Chat module to type in alternative latin charsets
 
 ### Changed
 - Separated horizontal and vertical speed in Freecam
