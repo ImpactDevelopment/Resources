@@ -39,6 +39,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed Anti Vanish causing the game to crash
 - Fixed Flowing option for Jesus Solid mode
 - Fixed ColorType values loading with 0 opacity
+- Fixed Criticals not working while sprinting
 
 ## 4.3
 
