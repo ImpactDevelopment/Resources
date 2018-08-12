@@ -44,6 +44,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed ColorType values loading with 0 opacity
 - Fixed Criticals not working while sprinting
 - Fixed issues caused by Fast Render by forcefully disabling it
+- Fixed hopper and furnace minecarts not being shown by Storage ESP
 
 ## 4.3
 
