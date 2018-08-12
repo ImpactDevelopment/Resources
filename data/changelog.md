@@ -18,6 +18,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Allow Auto Totem to access crafting slots to retrieve Totems
   - Should be combined with Inventory's "Extra Slots" feature
 - Added Fancy Chat module to type in alternative latin charsets
+- Added command to check fall damage to a block (.falldamage)
+  - Checks the fall damage to the block you are looking at
 
 ### Changed
 - Separated horizontal and vertical speed in Freecam
