@@ -22,6 +22,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 ### Changed
 - Separated horizontal and vertical speed in Freecam
 - Changed Fast Interact's Fast Break option from breaking blocks faster to lowering block break delay
+- Made latency compensation in the Minestrike module optional
 
 ### Fixed
 - Fixed uncommon crash caused by GuiTextContainingLinks
@@ -40,6 +41,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed Flowing option for Jesus Solid mode
 - Fixed ColorType values loading with 0 opacity
 - Fixed Criticals not working while sprinting
+- Fixed issues caused by Fast Render by forcefully disabling it
 
 ## 4.3
 
