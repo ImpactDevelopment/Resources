@@ -20,6 +20,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added Fancy Chat module to type in alternative latin charsets
 - Added command to check fall damage to a block (.falldamage)
   - Checks the fall damage to the block you are looking at
+- Added Ping Spoof module
 
 ### Changed
 - Separated horizontal and vertical speed in Freecam
