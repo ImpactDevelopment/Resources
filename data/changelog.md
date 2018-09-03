@@ -21,16 +21,21 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added command to check fall damage to a block (.falldamage)
   - Checks the fall damage to the block you are looking at
 - Added Ping Spoof module
+- Integration with Baritone
+- Added Bot option to Auto Mine (Automatically mine to ores)
+- Added Lava and Portals to Xray by default
 
 ### Changed
 - Separated horizontal and vertical speed in Freecam
 - Changed Fast Interact's Fast Break option from breaking blocks faster to lowering block break delay
 - Made latency compensation in the Minestrike module optional
+- Xray and Nuker config files will now use namespace block ids instead of numerical
 
 ### Fixed
 - Fixed uncommon crash caused by GuiTextContainingLinks
 - Fixed Scaffold not working on NCP due to bad angles
 - Fixed Scaffold providing server with suspicious looking packets
+- Fixed Scaffold crashing under specific conditions
 - Fixed Riding causing boats to bob if the swim option is checked
 - Step working when in water or lava
 - Fixed enum type values not saving/loading properly
