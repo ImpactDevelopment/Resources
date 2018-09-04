@@ -24,6 +24,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Integration with Baritone
 - Added Bot option to Auto Mine (Automatically mine to ores)
 - Added Lava and Portals to Xray by default
+- Added Durability option to Item Saver. Ranges from 0-50% where 0% represents 0 durability.
 
 ### Changed
 - Separated horizontal and vertical speed in Freecam
