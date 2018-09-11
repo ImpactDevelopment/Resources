@@ -32,6 +32,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Made latency compensation in the Minestrike module optional
 - Xray and Nuker config files will now use namespace block ids instead of numerical
 
+### Removed
+- Removed Item Physics
+
 ### Fixed
 - Fixed uncommon crash caused by GuiTextContainingLinks
 - Fixed Scaffold not working on NCP due to bad angles
@@ -114,7 +117,6 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 
 ### Removed
 - Mode option for nuker
-- Removed Item Physics
 
 ### Fixed
 - Absorption not being shown by Nametags
