@@ -114,6 +114,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 
 ### Removed
 - Mode option for nuker
+- Removed Item Physics
 
 ### Fixed
 - Absorption not being shown by Nametags
