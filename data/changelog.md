@@ -25,12 +25,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added Bot option to Auto Mine (Automatically mine to ores)
 - Added Lava and Portals to Xray by default
 - Added Durability option to Item Saver. Ranges from 0-50% where 0% represents 0 durability.
+- Added Immune option to Kill Aura. If on, will only attack entities that aren't immune to damage.
 
 ### Changed
 - Separated horizontal and vertical speed in Freecam
 - Changed Fast Interact's Fast Break option from breaking blocks faster to lowering block break delay
 - Made latency compensation in the Minestrike module optional
 - Xray and Nuker config files will now use namespace block ids instead of numerical
+- Moved TPS Sync option to Kill Aura from Delay Mode (The Immune option uses it)
 
 ### Removed
 - Removed Item Physics
