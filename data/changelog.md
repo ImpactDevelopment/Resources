@@ -65,6 +65,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed hopper and furnace minecarts not being shown by Storage ESP
 - Fixed the ability to execute other commands during spam setup
 - Fixed not being able to place end crystals at sky limit (Vanilla bug)
+- Fixed Anti Hazard not working on fire
 
 ## 4.3
 
