@@ -26,6 +26,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added Lava and Portals to Xray by default
 - Added Durability option to Item Saver. Ranges from 0-50% where 0% represents 0 durability.
 - Added Immune option to Kill Aura. If on, will only attack entities that aren't immune to damage.
+- Added Web mode to NoFall, functions the same as Bucket except is able to place webs.
+- Added visible ticks option to Minestrike
+- Added prioritization modes to Minestrike (Currently world distance and crosshair distance)
+- Added aim type to Minestrike, allowing the user to choose when the aimbot should lock on
+  - Options are Always and (when) Shooting
 
 ### Changed
 - Separated horizontal and vertical speed in Freecam
@@ -33,6 +38,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Made latency compensation in the Minestrike module optional
 - Xray and Nuker config files will now use namespace block ids instead of numerical
 - Moved TPS Sync option to Kill Aura from Delay Mode (The Immune option uses it)
+- Made Auto Shoot an option in Minestrike (Was previously on by default)
 
 ### Removed
 - Removed Item Physics
@@ -57,6 +63,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed Criticals not working while sprinting
 - Fixed issues caused by Fast Render by forcefully disabling it
 - Fixed hopper and furnace minecarts not being shown by Storage ESP
+- Fixed the ability to execute other commands during spam setup
+- Fixed not being able to place end crystals at sky limit (Vanilla bug)
 
 ## 4.3
 
