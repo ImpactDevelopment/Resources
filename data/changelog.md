@@ -69,6 +69,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed Anti Hazard not working on fire
 - Fixed rare occurance of server receiving angles that were out of bounds
 - Fixed Ignite not breaking blocks that are preventing ignition of targets
+- Fixed Auto Eat not working while in a GUI screen
 
 ## 4.3
 
