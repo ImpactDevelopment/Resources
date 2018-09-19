@@ -71,6 +71,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed Ignite not breaking blocks that are preventing ignition of targets
 - Fixed Auto Eat not working while in a GUI screen
 - Fixed Freecam causing kicks on some servers, and in general, not functioning as expected
+- Fixed Scaffold not being able to place slabs correctly
+- Fixed Scaffold not being able to place blocks off of glass
+- Fixed Scaffold not being able to place in positions that are replaceable
 
 ## 4.3
 
