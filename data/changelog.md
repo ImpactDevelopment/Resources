@@ -41,6 +41,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Xray and Nuker config files will now use namespace block ids instead of numerical
 - Moved TPS Sync option to Kill Aura from Delay Mode (The Immune option uses it)
 - Made Auto Shoot an option in Minestrike (Was previously on by default)
+- Utilize the new Color Picker on all modules with customizable colors
 
 ### Removed
 - Removed Item Physics
