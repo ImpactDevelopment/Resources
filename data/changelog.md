@@ -33,6 +33,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
   - Options are Always and (when) Shooting
 - Added "Dolpin" fallback to Jesus Solid mode when flowing is off
 - Added a built in color picker to the Click Gui
+- Added Block ESP/Search along with a .search command
 
 ### Changed
 - Separated horizontal and vertical speed in Freecam
