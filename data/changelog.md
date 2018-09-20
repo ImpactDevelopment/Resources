@@ -32,6 +32,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added aim type to Minestrike, allowing the user to choose when the aimbot should lock on
   - Options are Always and (when) Shooting
 - Added "Dolpin" fallback to Jesus Solid mode when flowing is off
+- Added a built in color picker to the Click Gui
 
 ### Changed
 - Separated horizontal and vertical speed in Freecam
