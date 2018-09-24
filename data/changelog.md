@@ -34,6 +34,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added "Dolpin" fallback to Jesus Solid mode when flowing is off
 - Added a built in color picker to the Click Gui
 - Added Block ESP/Search along with a .search command
+- Added Extended Tooltips option to Click GUI
+  - Will show the name of the component as well as it's description when hovered
 
 ### Changed
 - Separated horizontal and vertical speed in Freecam
