@@ -85,6 +85,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed Scaffold not being able to place in positions that are replaceable
 - Minor improvements to Crosshair+
 - Fixed issue with Self Destruct that did not restore GUIs fully
+- Fixed No Slow water option preventing moving up
 
 ## 4.3
 
