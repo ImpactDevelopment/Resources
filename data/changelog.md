@@ -40,6 +40,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added Block ESP/Search along with a .search command
 - Added Extended Tooltips option to Click GUI
   - Will show the name of the component as well as it's description when hovered
+- Added ToggleTab
+  - Can be enabled/disabled with `.gui toggletab <enable/disable>`
 
 ### Changed
 - Separated horizontal and vertical speed in Freecam
