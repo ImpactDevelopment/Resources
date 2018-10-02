@@ -21,7 +21,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added command to check fall damage to a block (.falldamage)
   - Checks the fall damage to the block you are looking at
 - Added Ping Spoof module
-- Integration with Baritone
+- Added Integration with Baritone
+  - Add Auto Mine Bot Mode
+  - Add Auto Walk Smart Mode
+  - Add Baritone configuration in GUI
+  - and more!
 - Added Bot option to Auto Mine (Automatically mine to ores)
 - Added Lava and Portals to Xray by default
 - Added Durability option to Item Saver. Ranges from 0-50% where 0% represents 0 durability.
@@ -79,6 +83,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed Scaffold not being able to place slabs correctly
 - Fixed Scaffold not being able to place blocks off of glass
 - Fixed Scaffold not being able to place in positions that are replaceable
+- Minor improvements to Crosshair+
+- Fixed issue with Self Destruct that did not restore GUIs fully
 
 ## 4.3
 
