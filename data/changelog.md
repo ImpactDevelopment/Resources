@@ -25,6 +25,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
   - Add Auto Mine Bot Mode
   - Add Auto Walk Smart Mode
   - Add Baritone configuration in GUI
+  - Made Radar show current calculating and executing path
   - and more!
 - Added Bot option to Auto Mine (Automatically mine to ores)
 - Added Lava and Portals to Xray by default
