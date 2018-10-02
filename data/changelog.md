@@ -89,6 +89,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Minor improvements to Crosshair+
 - Fixed issue with Self Destruct that did not restore GUIs fully
 - Fixed No Slow water option preventing moving up
+- Fixed Perspective not having an expected angle change
 
 ## 4.3
 
