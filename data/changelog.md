@@ -43,6 +43,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
   - Will show the name of the component as well as it's description when hovered
 - Added ToggleTab
   - Can be enabled/disabled with `.gui toggletab <enable/disable>`
+- Added Time widget to HUD
+- Added Item Use option to Auto Clicker
+  - Toggle the ability to use items and have Auto Clicker work simultaneously
 
 ### Changed
 - Separated horizontal and vertical speed in Freecam
@@ -52,6 +55,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Moved TPS Sync option to Kill Aura from Delay Mode (The Immune option uses it)
 - Made Auto Shoot an option in Minestrike (Was previously on by default)
 - Utilize the new Color Picker on all modules with customizable colors
+- Keybinds are now saved as strings, improving future compatibility
+- Made horizontal and vertical velocity options affect explosions in Velocity module
 
 ### Removed
 - Removed Item Physics
@@ -90,6 +95,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed issue with Self Destruct that did not restore GUIs fully
 - Fixed No Slow water option preventing moving up
 - Fixed Perspective not having an expected angle change
+- Fixed incomplete description of Fire option for Anti Hazard
+- Fixed movement input being passed through while in chat and Anti AFK is on
 
 ## 4.3
 
