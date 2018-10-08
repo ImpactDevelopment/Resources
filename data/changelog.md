@@ -97,6 +97,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed Perspective not having an expected angle change
 - Fixed incomplete description of Fire option for Anti Hazard
 - Fixed movement input being passed through while in chat and Anti AFK is on
+- Fixed lighting bug caused by Shader ESP
 
 ## 4.3
 
