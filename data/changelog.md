@@ -46,6 +46,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added Time widget to HUD
 - Added Item Use option to Auto Clicker
   - Toggle the ability to use items and have Auto Clicker work simultaneously
+- Added Portal God Mode exploit
 
 ### Changed
 - Separated horizontal and vertical speed in Freecam
@@ -57,6 +58,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Utilize the new Color Picker on all modules with customizable colors
 - Keybinds are now saved as strings, improving future compatibility
 - Made horizontal and vertical velocity options affect explosions in Velocity module
+- Renamed Portal GUI to Portals
+  - Added God Mode exploit
 
 ### Removed
 - Removed Item Physics
