@@ -5,11 +5,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 
 ## Unreleased
 
-## Added
+### Added
 - Path option in Radar to make Baritone's current path optional
 - Stipple option in Radar to enable/disable path line stippling
 
-## Fixed
+### Fixed
 - Fixed path rendering in radar not respecting Baritone color settings
 
 ## 4.4
