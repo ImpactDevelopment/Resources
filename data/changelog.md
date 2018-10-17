@@ -3,15 +3,6 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~~and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).~~
 
-## Unreleased
-
-### Added
-- Path option in Radar to make Baritone's current path optional
-- Stipple option in Radar to enable/disable path line stippling
-
-### Fixed
-- Fixed path rendering in radar not respecting Baritone color settings
-
 ## 4.4
 
 ### Added
@@ -56,6 +47,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added Item Use option to Auto Clicker
   - Toggle the ability to use items and have Auto Clicker work simultaneously
 - Added Portal God Mode exploit
+- Path option in Radar to make Baritone's current path optional
+- Stipple option in Radar to enable/disable path line stippling
 
 ### Changed
 - Separated horizontal and vertical speed in Freecam
@@ -110,6 +103,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed incomplete description of Fire option for Anti Hazard
 - Fixed movement input being passed through while in chat and Anti AFK is on
 - Fixed lighting bug caused by Shader ESP
+- Fixed path rendering in radar not respecting Baritone color settings
 
 ## 4.3
 
