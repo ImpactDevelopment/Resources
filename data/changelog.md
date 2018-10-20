@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 ### Added
 - Added a color option for Trajectories
 - Added error message to Auto Walk "Smart Mode" indicating path calculation failure
+- Added a multiplier option to Strafe Speed
 
 ### Changed
 - Changed Ladder Speed in Terrain to have a speed multiplier instead of an obscure speed value
