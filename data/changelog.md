@@ -18,6 +18,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed crash caused by disabling sprint when not in game
 - Fixed CrosshairPlus rendering when ``hideGUI`` is true (From pressing F1)
 - Fixed Module Mode settings not loading
+- Fixed Flight Anti Kick option causing actual teleports to the ground under some circumstances
 
 ## 4.4
 
