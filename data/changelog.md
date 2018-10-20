@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed Minestrike module team check
 - Fixed ClickTP sending item interaction packets when teleporting
 - Fixed potential ConcurrentModificationException in Anti Vanish
+- Fixed crash caused by disabling sprint when not in game
 
 ## 4.4
 
