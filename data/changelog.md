@@ -14,6 +14,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed potential ConcurrentModificationException in Anti Vanish
 - Fixed crash caused by disabling sprint when not in game
 - Fixed CrosshairPlus rendering when ``hideGUI`` is true (From pressing F1)
+- Fixed Module Mode settings not loading
 
 ## 4.4
 
