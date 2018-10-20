@@ -20,6 +20,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed CrosshairPlus rendering when ``hideGUI`` is true (From pressing F1)
 - Fixed Module Mode settings not loading
 - Fixed Flight Anti Kick option causing actual teleports to the ground under some circumstances
+- Fixed No Slow Item modifier not applying
 
 ## 4.4
 
