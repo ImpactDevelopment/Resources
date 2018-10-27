@@ -9,6 +9,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added a color option for Trajectories
 - Added error message to Auto Walk "Smart Mode" indicating path calculation failure
 - Added a multiplier option to Strafe Speed
+- Added Slime option to No Slow
+- Added SoulSand option to No Slow
 
 ### Changed
 - Changed Ladder Speed in Terrain to have a speed multiplier instead of an obscure speed value
