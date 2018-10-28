@@ -26,6 +26,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed Flight Anti Kick option causing actual teleports to the ground under some circumstances
 - Fixed No Slow Item modifier not applying
 - Fixed easy way for servers to detect No Rotate
+- Sync Preserve Y in Smart Auto Walk with simplifyUnloadedYCoord 
 
 ## 4.4
 
