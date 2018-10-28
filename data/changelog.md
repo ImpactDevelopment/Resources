@@ -6,12 +6,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 ## 4.5 (Unreleased)
 
 ### Added
-- Added a color option for Trajectories
+- Added a color option to Trajectories
 - Added error message to Auto Walk "Smart Mode" indicating path calculation failure
 - Added a multiplier option to Strafe Speed
 - Added Slime option to No Slow
 - Added SoulSand option to No Slow
-- Added Inventory Open option for Auto Armor
+- Added Inventory Open option to Auto Armor
 
 ### Changed
 - Changed Ladder Speed in Terrain to have a speed multiplier instead of an obscure speed value
