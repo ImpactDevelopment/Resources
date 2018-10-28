@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added a multiplier option to Strafe Speed
 - Added Slime option to No Slow
 - Added SoulSand option to No Slow
+- Added Inventory Open option for Auto Armor
 
 ### Changed
 - Changed Ladder Speed in Terrain to have a speed multiplier instead of an obscure speed value
