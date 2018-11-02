@@ -12,7 +12,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added Slime option to No Slow
 - Added SoulSand option to No Slow
 - Added Inventory Open option to Auto Armor
-- Added reverse and multiplier to horizontal and vertical Velocity options
+- Added Reverse and Multiplier to horizontal and vertical Velocity options
+- Added Chance option to Velocity
+- Added Auto Close option to Chest Stealer
 
 ### Changed
 - Changed Ladder Speed in Terrain to have a speed multiplier instead of an obscure speed value
@@ -27,7 +29,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Fixed Flight Anti Kick option causing actual teleports to the ground under some circumstances
 - Fixed No Slow Item modifier not applying
 - Fixed easy way for servers to detect No Rotate
-- Sync Preserve Y in Smart Auto Walk with simplifyUnloadedYCoord 
+- Sync Preserve Y in Smart Auto Walk with simplifyUnloadedYCoord
+- Fixed random quote in Baritone first-time message
 
 ## 4.4
 
