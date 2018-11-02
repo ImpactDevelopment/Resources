@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 - Added Slime option to No Slow
 - Added SoulSand option to No Slow
 - Added Inventory Open option to Auto Armor
+- Added reverse and multiplier to horizontal and vertical Velocity options
 
 ### Changed
 - Changed Ladder Speed in Terrain to have a speed multiplier instead of an obscure speed value
