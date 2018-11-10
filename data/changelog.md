@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) ~
 ## 4.5 (Unreleased)
 
 ### Added
+- Added a GUI to manage and create [Macros](https://github.com/ImpactDevelopment/ImpactClient/issues/153). A macros system was added in 4.3, but they could only be managed by manually editing the json file.
 - Added a color option to Trajectories
 - Added error message to Auto Walk "Smart Mode" indicating path calculation failure
 - Added a multiplier option to Strafe Speed
