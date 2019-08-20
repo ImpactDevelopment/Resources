@@ -1,1 +1,1 @@
-This resource has been relocated to [Here](https://github.com/ImpactDevelopment/impactdevelopment.github.io/blob/master/changelog.md)
+This resource has been relocated to [Here](https://impactdevelopment.github.io/Impact/changelog)
