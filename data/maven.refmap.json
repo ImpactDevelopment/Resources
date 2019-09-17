@@ -4,6 +4,7 @@
     "com.github.ZeroMemes": "https://impactdevelopment.github.io/maven/",
     "club.minnced": "https://impactdevelopment.github.io/maven/",
     "org.spongepowered": "https://impactdevelopment.github.io/maven/",
+    "com.github.spongepowered": "https://jitpack.io/",
     "net.jodah": "https://repo.maven.apache.org/maven2/",
     "org.ow2.asm": "http://repo1.maven.org/maven2/",
     "net.minecraft": "https://libraries.minecraft.net/"
