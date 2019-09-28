@@ -17,5 +17,14 @@
     },
     "esp": {
       "color": "GOLD"
+    },
+    "d60507f8-87c7-44f9-8a27-1f8a2b5b5a05": {
+    "nametags": {
+      "name": "Scandal",
+      "text": "DARK_RED",
+      "border": "GOLD"
+    },
+    "esp": {
+      "color": "DARK_RED"
     }
 }
