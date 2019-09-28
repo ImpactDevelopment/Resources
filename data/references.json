@@ -8,5 +8,7 @@
   "donate": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/donate.txt",
   "credits": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/credits.json",
   "custom": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/custom.json",
-  "changelog": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/changelog.md"
+  "changelog": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/changelog.md",
+  "backgrounds": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/backgrounds.json",
+  "assets": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/assets.json",
 }
