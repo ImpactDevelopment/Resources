@@ -17,5 +17,15 @@
     },
     "esp": {
       "color": "GOLD"
+    },
+    "5a7c47d2-0468-49d9-8f23-24eed52534aa": {
+    "nametags": {
+      "name": "EmeraldSnorlax",
+      "text": "DARK_GREEN",
+      "border": "DARK_GREEN"
+    },
+    "esp": {
+      "color": "DARK_GREEN"
     }
+  }
 }
