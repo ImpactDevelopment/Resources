@@ -7,5 +7,6 @@
     "com.github.spongepowered": "https://jitpack.io/",
     "net.jodah": "https://repo.maven.apache.org/maven2/",
     "org.ow2.asm": "http://repo1.maven.org/maven2/",
-    "net.minecraft": "https://libraries.minecraft.net/"
+    "net.minecraft": "https://libraries.minecraft.net/",
+    "com.auth0": "https://repo.maven.apache.org/maven2/"
 }
