@@ -12,5 +12,6 @@
     "com.auth0": "https://repo.maven.apache.org/maven2/",
     "com.fasterxml.jackson.core": "https://jcenter.bintray.com/",
     "io.jsonwebtoken": "https://repo.maven.apache.org/maven2/",
+    "org.ocpsoft.prettytime": "https://repo.maven.apache.org/maven2/",
     "org.json": "https://repo.maven.apache.org/maven2/"
 }
