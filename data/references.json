@@ -1,5 +1,5 @@
 {
-  "premium": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/premium.txt",
+  "premium": "https://api.impactclient.net/v1/minecraft/user/premium/list",
   "developer": "https://api.impactclient.net/v1/minecraft/user/developer/list",
   "pepsi": "https://api.impactclient.net/v1/minecraft/user/pepsi/list",
   "staff": "https://api.impactclient.net/v1/minecraft/user/staff/list",
