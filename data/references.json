@@ -7,6 +7,5 @@
   "motd": "https://api.impactclient.net/v1/motd",
   "donate": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/donate.txt",
   "credits": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/credits.json",
-  "custom": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/custom.json",
   "changelog": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/changelog.md"
 }
