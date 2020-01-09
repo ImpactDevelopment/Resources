@@ -1,8 +1,8 @@
 {
   "premium": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/premium.txt",
-  "developer": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/developer.txt",
-  "pepsi": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/pepsi.txt",
-  "staff": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/users/staff.txt",
+  "developer": "https://api.impactclient.net/v1/minecraft/user/developer/list",
+  "pepsi": "https://api.impactclient.net/v1/minecraft/user/pepsi/list",
+  "staff": "https://api.impactclient.net/v1/minecraft/user/staff/list",
   "version": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/versions.json",
   "motd": "https://api.impactclient.net/v1/motd",
   "donate": "https://raw.githubusercontent.com/ImpactDevelopment/Resources/master/data/donate.txt",
