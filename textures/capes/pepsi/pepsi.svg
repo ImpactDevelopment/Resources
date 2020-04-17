@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="32"
+   viewBox="0 0 16.933333 8.4666659"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="pepsi.svg"
+   inkscape:export-filename="/data/lin/matt/Games/Minecraft/Impact/assets/0d6a29c7ecbac3268c5fcbef578634d7e5377043.png"
+   inkscape:export-xdpi="1536"
+   inkscape:export-ydpi="1536">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath854">
+      <path
+         style="opacity:0.41700003;fill:#41dc56;fill-opacity:1;stroke:none;stroke-width:0.31028441;stroke-opacity:1"
+         d="m 12.613768,15.731344 -1.263824,1.827879 -0.317781,-0.08887 -0.210635,0.304647 -0.317781,-0.08887 -0.210636,0.304648 -0.953354,-0.266614 -0.2106352,0.304647 -1.2711469,-0.355489 -0.210635,0.304647 -3.4956239,-0.977586 1.4744469,-2.132529 0.317781,0.08887 0.2106349,-0.304647 0.6355737,0.177744 0.2106356,-0.304647 0.9533542,0.266614 0.1908175,-0.310189 z"
+         id="path860"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccc">
+        <desc
+           id="desc856">The front of the left elytra wing, will be mirrored for the right wing</desc>
+        <title
+           id="title858">Elytra Front</title>
+      </path>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="17.010873"
+     inkscape:cy="14.280372"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     borderlayer="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="3840"
+     inkscape:window-height="2123"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:snap-perpendicular="true"
+     inkscape:snap-tangential="true"
+     guidetolerance="10"
+     gridtolerance="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4518"
+       empspacing="8"
+       color="#3fc7ff"
+       opacity="0.38823529"
+       empcolor="#00aaf0"
+       empopacity="0.4627451" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4520"
+       spacingx="4.2333331"
+       spacingy="4.2333331"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-288.53334)">
+    <g
+       id="g852"
+       transform="matrix(-0.20352784,-0.69768343,0.72777018,-0.48238365,0.64344956,305.45146)"
+       inkscape:transform-center-x="6.3125299"
+       inkscape:transform-center-y="-1.9616817"
+       clip-path="url(#clipPath854)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:38.03797913;stroke-linecap:square"
+         d="m 22.489584,11.244792 c 0.07959,4.921366 -3.473511,9.595241 -8.236823,10.835011 C 9.2683216,23.561295 3.4960231,21.025894 1.2233506,16.345386 -1.2217683,11.754041 0.1210644,5.5940754 4.2549172,2.4364438 8.2692436,-0.87304937 14.572831,-0.78024614 18.488886,2.6443007 c 2.514065,2.0949513 4.017776,5.3284289 4.000698,8.6004913 z"
+         id="path63"
+         inkscape:connector-curvature="0" />
+      <g
+         id="layer1-0"
+         transform="translate(222.1555,-194.28497)">
+        <path
+           style="fill:#004b93;stroke-width:0.26458332;fill-opacity:1"
+           d="m -201.83551,199.65601 c 0.21411,0.72054 0.34459,1.46948 0.34396,2.2225 -0.1426,0.73211 -0.56906,1.36672 -0.98239,1.97278 -1.0843,1.50534 -2.39618,2.8363 -3.80083,4.04319 -0.9223,0.76798 -1.88455,1.51846 -2.98605,2.01275 -0.26008,0.0582 -0.42266,0.25927 -0.63749,0.39974 -0.73479,0.44493 -1.62311,0.47028 -2.45739,0.51001 -1.54505,0.043 -3.12435,0.0223 -4.61154,0.50493 -0.36871,0.12972 -0.73652,0.26797 -1.12663,0.31915 -0.49982,0.0883 -1.00824,0.14253 -1.49518,0.29162 1.40009,1.66124 3.22345,2.9682 5.25067,3.75098 1.37208,0.52937 2.86122,0.77133 4.32914,0.63059 2.76205,-0.2141 5.40951,-1.55718 7.22459,-3.64822 1.77082,-2.00647 2.74151,-4.69142 2.66604,-7.3663 -0.0395,-1.99256 -0.63743,-3.96776 -1.7169,-5.64372 z"
+           id="path392"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ed1a38;stroke-width:0.26458332"
+           d="m -204.42842,196.87789 c -2.07306,-1.56697 -4.72345,-2.34806 -7.31512,-2.13805 -2.74384,0.1952 -5.38233,1.50432 -7.20737,3.56077 -1.80706,2.00268 -2.80826,4.70198 -2.7535,7.39813 0.0283,2.23145 0.77639,4.44771 2.11536,6.23394 0.61067,-0.18525 1.19162,-0.4494 1.76266,-0.73138 1.02965,-0.49018 2.13291,-0.80741 3.25379,-1.0065 0.70665,-0.13003 1.44832,-0.30456 1.99148,-0.80758 0.99606,-0.99352 1.98402,-1.99644 3.00957,-2.96025 1.3556,-1.30432 2.78508,-2.53088 4.11282,-3.86412 0.68415,-0.71231 1.3927,-1.4996 1.59759,-2.49739 0.2135,-1.08934 -0.18632,-2.18362 -0.56728,-3.18757 z"
+           id="path394"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <rect
+       style="fill:#0063a7;fill-opacity:1;stroke:none;stroke-width:0.18257982;stroke-opacity:1"
+       id="cape_front"
+       width="2.6458333"
+       height="4.2333331"
+       x="0.2645832"
+       y="288.79791">
+      <title
+         id="title4524">Cape Front</title>
+    </rect>
+    <rect
+       style="fill:#0063a7;fill-opacity:1;stroke:none;stroke-width:0.18708166;stroke-opacity:1"
+       id="cape_top"
+       width="2.6458333"
+       height="0.26456329"
+       x="0.26458332"
+       y="288.53336">
+      <title
+         id="title4528">Cape Top</title>
+    </rect>
+    <rect
+       style="fill:#0063a7;fill-opacity:1;stroke:none;stroke-width:0.18708865;stroke-opacity:1"
+       id="cape_leaft"
+       width="0.26458332"
+       height="4.2333331"
+       x="0"
+       y="288.79791"
+       inkscape:label="#cape_left">
+      <title
+         id="title4532">Cape Left</title>
+    </rect>
+    <rect
+       style="fill:#0063a7;fill-opacity:1;stroke:none;stroke-width:0.18708861;stroke-opacity:1"
+       id="rect4534"
+       width="0.26458317"
+       height="4.2333331"
+       x="2.9104166"
+       y="288.79791" />
+    <rect
+       style="fill:#0063a7;fill-opacity:1;stroke:none;stroke-width:0.18709245;stroke-opacity:1"
+       id="cape_bottom"
+       width="2.6458333"
+       height="0.26459381"
+       x="2.9104164"
+       y="288.53333">
+      <title
+         id="title4528-6">Cape Bottom</title>
+    </rect>
+    <rect
+       style="fill:#0063a7;fill-opacity:1;stroke:none;stroke-width:0.18257982;stroke-opacity:1"
+       id="cape_back"
+       width="2.6458333"
+       height="4.2333331"
+       x="3.1749997"
+       y="288.79791">
+      <title
+         id="title4524-5">Cape Back</title>
+    </rect>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       d="m 8.995833,289.0625 h 0.5291664 v 2.38125 l -0.2645832,10e-6 v -1.85209 H 8.9958329 Z"
+       id="elytra_outside"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc">
+      <desc
+         id="desc4594">The &quot;outside&quot; edge of the elytra, to the left on the left wing. Normally transparent most of the way up</desc>
+      <title
+         id="title4592">Elytra Outside</title>
+    </path>
+    <path
+       style="fill:#004b93;fill-opacity:1;stroke:none;stroke-width:0.24153042;stroke-opacity:1"
+       d="m 8.2020826,288.53336 h 0.7937501 v 0.52916 h -0.51263 l -0.016536,-0.2646 H 8.2020829 Z"
+       id="elytra_top"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc">
+      <title
+         id="title4605">Elytra Top</title>
+    </path>
+    <rect
+       style="fill:#ed1a38;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       id="elytra_bottom"
+       width="1.5875"
+       height="0.26458332"
+       x="8.9958334"
+       y="288.53333">
+      <title
+         id="title4607">Elytra Bottom</title>
+    </rect>
+    <rect
+       style="fill:#004b93;fill-opacity:1;stroke:none;stroke-width:0.2265746;stroke-opacity:1"
+       id="elytra_inside"
+       width="0.26458332"
+       height="2.9103906"
+       x="5.8208332"
+       y="-294.35419"
+       transform="scale(1,-1)">
+      <title
+         id="title4609">Elytra Inside</title>
+    </rect>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect862"
+       width="0.26458332"
+       height="0.52916664"
+       x="5.8208332"
+       y="293.82501" />
+    <g
+       id="g882"
+       transform="matrix(0.09411764,0,0,0.09411764,0.52916664,289.32709)">
+      <circle
+         r="11.244792"
+         cy="11.244792"
+         cx="11.244792"
+         id="path63-9"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:38.03797913;stroke-linecap:square" />
+      <g
+         id="layer1-2"
+         transform="translate(222.1555,-194.28497)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#004b93;stroke-width:0.26458332;fill-opacity:1"
+           d="m -201.83551,199.65601 c 0.21167,0.71438 0.34396,1.45521 0.34396,2.2225 0,2.51354 -1.24354,4.70959 -3.12208,6.11188 -3.25438,2.40771 -8.01688,2.40771 -14.57854,4.47146 1.98437,2.38125 4.94771,3.88937 8.28146,3.88937 5.97958,0 10.795,-4.84187 10.795,-10.795 0,-2.19604 -0.635,-4.20687 -1.7198,-5.90021"
+           id="path392-0" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#c9002b;stroke-width:0.26458332;fill-opacity:1"
+           d="m -204.42842,196.87789 c -1.79917,-1.34938 -4.04813,-2.16959 -6.48229,-2.16959 -5.97959,0 -10.795,4.84188 -10.795,10.82146 0,2.40771 0.79375,4.63021 2.11666,6.40292 7.24959,-2.11667 12.99104,-7.80521 15.16063,-15.05479"
+           id="path394-6" />
+      </g>
+    </g>
+  </g>
+</svg>

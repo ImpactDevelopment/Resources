@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="32"
+   viewBox="0 0 16.933333 8.4666659"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="impact_staff.svg"
+   inkscape:export-filename="/home/matt/Dev/Impact/Resources/textures/capes/impact_staff.png"
+   inkscape:export-xdpi="1536"
+   inkscape:export-ydpi="1536">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1039">
+      <g
+         id="g1053"
+         transform="rotate(-11.882657,-3.769895e-5,3.9232945e-6)">
+        <path
+           sodipodi:nodetypes="ccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path1045"
+           d="m 9.5249994,289.0625 1.5874996,10e-6 v 0.26458 h 0.264583 v 0.26458 h 0.264584 v 0.79375 h 0.264583 v 1.05834 h 0.264583 l -1e-6,2.91041 h -1.852082 v -0.26458 h -0.264583 v -0.52917 H 9.7895824 v -0.79375 l -0.264583,0.0165 z"
+           style="fill:#41dc56;fill-opacity:1;stroke:none;stroke-width:0.24153039;stroke-opacity:1">
+          <desc
+             id="desc1041">The front of the left elytra wing, will be mirrored for the right wing</desc>
+          <title
+             id="title1043">Elytra Front</title>
+        </path>
+        <path
+           sodipodi:nodetypes="ccccccc"
+           inkscape:connector-curvature="0"
+           id="path1051"
+           d="m 8.995833,289.0625 h 0.5291664 v 2.38125 l -0.2645832,10e-6 v -1.85209 H 8.9958329 Z"
+           style="fill:#df0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1">
+          <desc
+             id="desc1047">The &quot;outside&quot; edge of the elytra, to the left on the left wing. Normally transparent most of the way up</desc>
+          <title
+             id="title1049">Elytra Outside</title>
+        </path>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1055">
+      <path
+         style="fill:#ff02f7;fill-opacity:1;stroke:none;stroke-width:0.24153042;stroke-opacity:1"
+         d="m 69.617919,280.74359 -0.776751,0.16344 -0.108958,-0.51782 0.501655,-0.10556 0.07063,0.25553 0.25891,-0.0545 z"
+         id="path1059"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc">
+        <title
+           id="title1057">Elytra Top</title>
+      </path>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1061">
+      <rect
+         style="fill:#8390ff;fill-opacity:1;stroke:none;stroke-width:0.2265746;stroke-opacity:1"
+         id="rect1065"
+         width="0.26458332"
+         height="2.9103906"
+         x="12.170833"
+         y="-294.35419"
+         transform="matrix(0.97857136,-0.20590799,-0.20590799,-0.97857136,0,0)">
+        <title
+           id="title1063">Elytra Inside</title>
+      </rect>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1067">
+      <rect
+         style="fill:#ff64f9;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="rect1071"
+         width="1.5875001"
+         height="0.26458332"
+         x="10.583333"
+         y="294.35416"
+         transform="rotate(-11.882657)">
+        <title
+           id="title1069">Elytra Bottom</title>
+      </rect>
+    </clipPath>
+    <filter
+       id="textShadow"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood1155"
+         result="flood"
+         flood-color="rgb(30,30,30)"
+         flood-opacity="0.75" />
+      <feComposite
+         id="feComposite1157"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur1159"
+         result="blur"
+         stdDeviation="3"
+         in="composite1" />
+      <feOffset
+         id="feOffset1161"
+         result="offset"
+         dy="2"
+         dx="2" />
+      <feComposite
+         id="feComposite1163"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4513"
+       x="-0.035153978"
+       width="1.070308"
+       y="-0.11640037"
+       height="1.2328007">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.02929064"
+         id="feGaussianBlur4515" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1026"
+       x="-0.032384848"
+       width="1.0647697"
+       y="-0.16237055"
+       height="1.3247411">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.02780622"
+         id="feGaussianBlur1028" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1085">
+      <g
+         id="g1105"
+         transform="translate(0,-7.8465859e-6)">
+        <rect
+           style="fill:#eb9500;fill-opacity:1;stroke:none;stroke-width:0.18257982;stroke-opacity:1"
+           id="rect1089"
+           width="2.6458333"
+           height="4.2333331"
+           x="0.2645832"
+           y="288.79791">
+          <title
+             id="title1087">Cape Front</title>
+        </rect>
+        <rect
+           style="fill:#ff02f7;fill-opacity:1;stroke:none;stroke-width:0.18708166;stroke-opacity:1"
+           id="rect1093"
+           width="2.6458333"
+           height="0.26456329"
+           x="0.26458332"
+           y="288.53336">
+          <title
+             id="title1091">Cape Top</title>
+        </rect>
+        <rect
+           style="fill:#8390ff;fill-opacity:1;stroke:none;stroke-width:0.18708865;stroke-opacity:1"
+           id="rect1097"
+           width="0.26458332"
+           height="4.2333331"
+           x="0"
+           y="288.79791"
+           inkscape:label="#cape_left">
+          <title
+             id="title1095">Cape Left</title>
+        </rect>
+        <rect
+           style="fill:#df0000;fill-opacity:1;stroke:none;stroke-width:0.18708861;stroke-opacity:1"
+           id="rect1099"
+           width="0.26458317"
+           height="4.2333331"
+           x="2.9104166"
+           y="288.79791" />
+        <rect
+           style="fill:#41dc56;fill-opacity:1;stroke:none;stroke-width:0.18257982;stroke-opacity:1"
+           id="rect1103"
+           width="2.6458333"
+           height="4.2333331"
+           x="3.1749997"
+           y="288.79791">
+          <title
+             id="title1101">Cape Back</title>
+        </rect>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1107">
+      <rect
+         transform="scale(1,-1)"
+         y="-293.29584"
+         x="0.26458332"
+         height="0.26459381"
+         width="2.6458333"
+         id="rect1111"
+         style="fill:#ff64f9;fill-opacity:1;stroke:none;stroke-width:0.18709245;stroke-opacity:1">
+        <title
+           id="title1109">Cape Bottom</title>
+      </rect>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="44.8"
+     inkscape:cx="3.8932578"
+     inkscape:cy="26.692878"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     borderlayer="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="2123"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4518"
+       empspacing="8"
+       color="#3fc7ff"
+       opacity="0.38823529"
+       empcolor="#00aaf0"
+       empopacity="0.4627451" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4520"
+       spacingx="4.2333331"
+       spacingy="4.2333331"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-288.53334)">
+    <image
+       xlink:href="file:///home/matt/Dev/Impact/Resources/textures/backgrounds/Pink_sunset_at_Visevnik.jpg"
+       clip-path="url(#clipPath1085)"
+       width="9.7601709"
+       height="4.7563133"
+       preserveAspectRatio="none"
+       id="visevnik-3-6"
+       x="-2.5040922"
+       y="288.53952"
+       sodipodi:absref="/home/matt/Dev/Impact/Resources/textures/backgrounds/Pink_sunset_at_Visevnik.jpg"
+       inkscape:transform-center-x="-0.95017342"
+       inkscape:transform-center-y="0.55425249">
+      <desc
+         id="desc6019-7-8">Impact's default background</desc>
+      <title
+         id="title6017-5-9">Visevnik</title>
+    </image>
+    <image
+       xlink:href="file:///home/matt/Dev/Impact/Resources/textures/backgrounds/Pink_sunset_at_Visevnik.jpg"
+       clip-path="url(#clipPath1107)"
+       width="9.7601709"
+       height="4.7563133"
+       preserveAspectRatio="none"
+       id="visevnik-3"
+       x="-2.5040922"
+       y="288.53952"
+       sodipodi:absref="/home/matt/Dev/Impact/Resources/textures/backgrounds/Pink_sunset_at_Visevnik.jpg"
+       inkscape:transform-center-x="-0.9501735"
+       inkscape:transform-center-y="-0.55425963"
+       transform="matrix(1,0,0,-1,2.6458331,581.82916)">
+      <desc
+         id="desc6019-7">Impact's default background</desc>
+      <title
+         id="title6017-5">Visevnik</title>
+    </image>
+    <image
+       sodipodi:absref="/home/matt/Dev/Impact/Resources/textures/backgrounds/Pink_sunset_at_Visevnik.jpg"
+       y="275.96271"
+       x="37.032043"
+       id="image848-6-9"
+       xlink:href="file:///home/matt/Dev/Impact/Resources/textures/backgrounds/Pink_sunset_at_Visevnik.jpg"
+       preserveAspectRatio="none"
+       height="22.102045"
+       width="45.354408"
+       transform="rotate(11.882657,27.172464,-10.537565)"
+       clip-path="url(#clipPath1067)" />
+    <image
+       sodipodi:absref="/home/matt/Dev/Impact/Resources/textures/backgrounds/Pink_sunset_at_Visevnik.jpg"
+       y="275.96271"
+       x="37.032043"
+       id="image848-6-1"
+       xlink:href="file:///home/matt/Dev/Impact/Resources/textures/backgrounds/Pink_sunset_at_Visevnik.jpg"
+       preserveAspectRatio="none"
+       height="22.102045"
+       width="45.354408"
+       transform="rotate(11.882657,-3.1749997,-30.508596)"
+       clip-path="url(#clipPath1061)" />
+    <image
+       sodipodi:absref="/home/matt/Dev/Impact/Resources/textures/backgrounds/Pink_sunset_at_Visevnik.jpg"
+       y="275.96271"
+       x="37.032043"
+       id="image848-6-27"
+       xlink:href="file:///home/matt/Dev/Impact/Resources/textures/backgrounds/Pink_sunset_at_Visevnik.jpg"
+       preserveAspectRatio="none"
+       height="22.102045"
+       width="45.354408"
+       transform="rotate(-168.11431,39.315431,287.83503)"
+       clip-path="url(#clipPath1055)"
+       inkscape:transform-center-x="-10.273369"
+       inkscape:transform-center-y="-4.4096378" />
+    <image
+       sodipodi:absref="/home/matt/Dev/Impact/Resources/textures/backgrounds/Pink_sunset_at_Visevnik.jpg"
+       y="275.96271"
+       x="37.032043"
+       id="image848-6"
+       xlink:href="file:///home/matt/Dev/Impact/Resources/textures/backgrounds/Pink_sunset_at_Visevnik.jpg"
+       preserveAspectRatio="none"
+       height="22.102045"
+       width="45.354408"
+       transform="rotate(11.882657)"
+       clip-path="url(#clipPath1039)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.40492994px;line-height:15.18486881px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#7323bb;fill-opacity:1;stroke:none;stroke-width:0.07592436px;stroke-linecap:butt;stroke-linejoin:miter;filter:url(#filter1026);"
+       x="1.589487"
+       y="290.19748"
+       id="text1429-2"
+       transform="scale(0.99998571,1.0000143)"><tspan
+         sodipodi:role="line"
+         id="tspan1427-0"
+         x="1.589487"
+         y="290.19748"
+         style="fill:#7323bb;fill-opacity:1;stroke:none;stroke-width:0.07592436px;stroke-opacity:1;">Staff</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.40492994px;line-height:15.18486881px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07592436px;stroke-linecap:butt;stroke-linejoin:miter"
+       x="1.589487"
+       y="290.19748"
+       id="text1429"
+       transform="scale(0.99998571,1.0000143)"><tspan
+         sodipodi:role="line"
+         id="tspan1427"
+         x="1.589487"
+         y="290.19748"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07592436px;stroke-opacity:1">Staff</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.42980531px;line-height:26.60559464px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:-0.01322917px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#7323bb;fill-opacity:1;stroke:none;stroke-width:0.08058849px;stroke-linecap:butt;stroke-linejoin:miter;filter:url(#filter4513);"
+       x="1.5681845"
+       y="289.67462"
+       id="text1429-5-7"
+       transform="scale(0.9999857,1.0000143)"><tspan
+         sodipodi:role="line"
+         id="tspan1427-9-7"
+         x="1.5615699"
+         y="289.67462"
+         style="font-size:0.59500372px;line-height:35.21825409px;letter-spacing:-0.01322917px;fill:#7323bb;fill-opacity:1;stroke:none;stroke-width:0.08058849px;stroke-opacity:1;">Impact</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.42980531px;line-height:26.60559654px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:-0.01322917px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08058849px;stroke-linecap:butt;stroke-linejoin:miter"
+       x="1.5681845"
+       y="289.67462"
+       id="text1429-5"
+       transform="scale(0.99998571,1.0000143)"><tspan
+         sodipodi:role="line"
+         id="tspan1427-9"
+         x="1.5615699"
+         y="289.67462"
+         style="font-size:0.59500372px;line-height:35.21825409px;letter-spacing:-0.01322917px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08058849px;stroke-opacity:1">Impact</tspan></text>
+  </g>
+</svg>

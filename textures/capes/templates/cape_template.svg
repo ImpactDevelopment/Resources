@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="32"
+   viewBox="0 0 16.933333 8.4666659"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="template.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="51.375696"
+     inkscape:cy="31.968104"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     borderlayer="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="2123"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4518"
+       empspacing="8"
+       color="#3fc7ff"
+       opacity="0.38823529"
+       empcolor="#00aaf0"
+       empopacity="0.4627451" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4520"
+       spacingx="4.2333331"
+       spacingy="4.2333331"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-288.53334)">
+    <rect
+       style="fill:#eb9500;fill-opacity:1;stroke:none;stroke-width:0.18257982;stroke-opacity:1"
+       id="cape_front"
+       width="2.6458333"
+       height="4.2333331"
+       x="0.2645832"
+       y="288.79791">
+      <title
+         id="title4524">Cape Front</title>
+    </rect>
+    <rect
+       style="fill:#ff02f7;fill-opacity:1;stroke:none;stroke-width:0.18708166;stroke-opacity:1"
+       id="cape_top"
+       width="2.6458333"
+       height="0.26456329"
+       x="0.26458332"
+       y="288.53336">
+      <title
+         id="title4528">Cape Top</title>
+    </rect>
+    <rect
+       style="fill:#8390ff;fill-opacity:1;stroke:none;stroke-width:0.18708865;stroke-opacity:1"
+       id="cape_leaft"
+       width="0.26458332"
+       height="4.2333331"
+       x="0"
+       y="288.79791"
+       inkscape:label="#cape_left">
+      <title
+         id="title4532">Cape Left</title>
+    </rect>
+    <rect
+       style="fill:#df0000;fill-opacity:1;stroke:none;stroke-width:0.18708861;stroke-opacity:1"
+       id="rect4534"
+       width="0.26458317"
+       height="4.2333331"
+       x="2.9104166"
+       y="288.79791" />
+    <rect
+       style="fill:#ff64f9;fill-opacity:1;stroke:none;stroke-width:0.18709245;stroke-opacity:1"
+       id="cape_bottom"
+       width="2.6458333"
+       height="0.26459381"
+       x="2.9104164"
+       y="288.53333">
+      <title
+         id="title4528-6">Cape Bottom</title>
+    </rect>
+    <rect
+       style="fill:#41dc56;fill-opacity:1;stroke:none;stroke-width:0.18257982;stroke-opacity:1"
+       id="cape_back"
+       width="2.6458333"
+       height="4.2333331"
+       x="3.1749997"
+       y="288.79791">
+      <title
+         id="title4524-5">Cape Back</title>
+    </rect>
+    <path
+       style="fill:#41dc56;fill-opacity:1;stroke:none;stroke-width:0.24153039;stroke-opacity:1"
+       d="m 9.5249994,289.0625 1.5874996,10e-6 v 0.26458 h 0.264583 v 0.26458 h 0.264584 v 0.79375 h 0.264583 v 1.05834 h 0.264583 l -1e-6,2.91041 h -1.852082 v -0.26458 h -0.264583 v -0.52917 H 9.7895824 v -0.79375 l -0.264583,0.0165 z"
+       id="elytra_front"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccc">
+      <desc
+         id="desc4587">The front of the left elytra wing, will be mirrored for the right wing</desc>
+      <title
+         id="title4585">Elytra Front</title>
+    </path>
+    <path
+       style="fill:#df0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       d="m 8.995833,289.0625 h 0.5291664 v 2.38125 l -0.2645832,10e-6 v -1.85209 H 8.9958329 Z"
+       id="elytra_outside"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc">
+      <desc
+         id="desc4594">The &quot;outside&quot; edge of the elytra, to the left on the left wing. Normally transparent most of the way up</desc>
+      <title
+         id="title4592">Elytra Outside</title>
+    </path>
+    <path
+       style="fill:#ff02f7;fill-opacity:1;stroke:none;stroke-width:0.24153042;stroke-opacity:1"
+       d="m 8.2020826,288.53336 h 0.7937501 v 0.52916 h -0.51263 l -0.016536,-0.2646 H 8.2020829 Z"
+       id="elytra_top"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc">
+      <title
+         id="title4605">Elytra Top</title>
+    </path>
+    <rect
+       style="fill:#ff64f9;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       id="elytra_bottom"
+       width="1.5875"
+       height="0.26458332"
+       x="8.9958334"
+       y="288.53333">
+      <title
+         id="title4607">Elytra Bottom</title>
+    </rect>
+    <rect
+       style="fill:#8390ff;fill-opacity:1;stroke:none;stroke-width:0.2265746;stroke-opacity:1"
+       id="elytra_inside"
+       width="0.26458332"
+       height="2.9103906"
+       x="5.8208332"
+       y="-294.35419"
+       transform="scale(1,-1)">
+      <title
+         id="title4609">Elytra Inside</title>
+    </rect>
+  </g>
+</svg>

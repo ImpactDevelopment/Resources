@@ -16,7 +16,7 @@
    inkscape:export-filename="/home/matt/Pictures/2b2t/pepsi/Pepsi_256.png"
    inkscape:export-xdpi="301.22433"
    inkscape:export-ydpi="301.22433"
-   inkscape:version="0.92+devel 15222">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,14 +26,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:window-width="3840"
+     inkscape:window-height="2123"
      id="namedview59"
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="5.6568543"
-     inkscape:cx="-9.5951909"
-     inkscape:cy="41.413292"
+     inkscape:cx="-44.95053"
+     inkscape:cy="40.706185"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,12 +68,12 @@
     <path
        id="path392"
        d="m -201.83551,199.65601 c 0.21167,0.71438 0.34396,1.45521 0.34396,2.2225 0,2.51354 -1.24354,4.70959 -3.12208,6.11188 -3.25438,2.40771 -8.01688,2.40771 -14.57854,4.47146 1.98437,2.38125 4.94771,3.88937 8.28146,3.88937 5.97958,0 10.795,-4.84187 10.795,-10.795 0,-2.19604 -0.635,-4.20687 -1.7198,-5.90021"
-       style="fill:#005992;stroke-width:0.26458332"
+       style="fill:#004b93;stroke-width:0.26458332;fill-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        id="path394"
        d="m -204.42842,196.87789 c -1.79917,-1.34938 -4.04813,-2.16959 -6.48229,-2.16959 -5.97959,0 -10.795,4.84188 -10.795,10.82146 0,2.40771 0.79375,4.63021 2.11666,6.40292 7.24959,-2.11667 12.99104,-7.80521 15.16063,-15.05479"
-       style="fill:#ed1a38;stroke-width:0.26458332"
+       style="fill:#c9002b;stroke-width:0.26458332;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
