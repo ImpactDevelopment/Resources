@@ -13,13 +13,13 @@ NAME_URL = BASE_URL + '/user/profiles/'
 #     return json.loads(response.text)
 
 def hasHyphens(uuid):
-    pass
+    return
 
 def stripUUID(uuid):
-    pass
+    return
 
 def hyphenUUID(uuid):
-    pass
+    return
 
 def hasError(json):
     return json.has_key('error')
@@ -27,10 +27,10 @@ def hasError(json):
 def toUUID(name):
     # TODO: JSON request to get the uuid
     respone = requests.get(url=UUID_URL + name)
-    json = json.loads(response.text)
+    _json = response.json()
     
-    if (not hasError(json)):
-        return hyphenUUID(json['id'])
+    if not hasError(_json):
+        return hyphenUUID(_json['id'])
     
     return
 
